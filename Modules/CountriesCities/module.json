@@ -1,0 +1,14 @@
+{
+    "name": "CountriesCities",
+    "alias": "countriescities",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\CountriesCities\\Providers\\CountriesCitiesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
